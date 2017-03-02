@@ -31,6 +31,8 @@ public class AppProgrammering extends Application {
             }
         });
         
+//Dette er en lille test 
+        
         StackPane root = new StackPane();
         root.getChildren().add(btn);
         
